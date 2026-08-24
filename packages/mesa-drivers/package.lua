@@ -4,7 +4,7 @@ return {
   summary = "Intel + AMD OpenGL, Vulkan, and VA-API drivers (Mesa 26.1.8)",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/mesa-drivers/mesa-drivers-26.1.8.tar.xz",
   sha256  = "811e50a9fc7fd1b0454e9eaa4a0cd33d1277441336d01294e18706a735d0007b",
-  deps    = { "libglvnd", "libX11", "libxcb", "wayland" },
+  deps    = { "libglvnd", "libX11", "libxcb", "wayland", "libpciaccess" },
   archive = { strip = 1 },
   test    = function(p)
     p:run("test -f " .. p.install_root .. "/usr/lib/dri/i915_dri.so")
