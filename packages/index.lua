@@ -178,6 +178,7 @@ return {
   { name = "libgtop", version = "2.41.3", summary = "Library for system information via /proc (libgtop-2.0)" },
   { name = "libgudev", version = "238", summary = "GObject bindings for libudev" },
   { name = "libhwy", version = "1.2.0", summary = "Google Highway SIMD library" },
+  { name = "libigdgmm", version = "22.5.0", summary = "Intel Graphics Memory Management Library" },
   { name = "libidn2", version = "0.4.0", summary = "Internationalized domain names" },
   { name = "libinput", version = "1.31.3", summary = "Input device and event processing library" },
   { name = "libjpeg-turbo", version = "3.2.0", summary = "MMX/SSE2/SMID accelerated library for manipulating JPEG images" },
