@@ -1,12 +1,12 @@
 return {
   name    = "nvidia-firmware",
-  version = "595.71.05",
-  summary = "NVIDIA official driver GSP firmware (loaded by the open kernel modules)",
-  url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/nvidia-firmware/nvidia-firmware-595.71.05.tar.xz",
-  sha256  = "845fa96d7614fbaf9c75482423c2c05f21dc0f01a415c100ab65a220bf0fb953",
+  version = "610.57.04",
+  summary = "NVIDIA driver GSP firmware (loaded by the open kernel modules)",
+  url     = "https://files.spectoria.dev/zeta-monsters/nvidia-firmware-610.57.04.tar.gz",
+  sha256  = "fd4573689eb99e84676e69828014fd9feae5339fe098099cd90890ad72895c2d",
   deps    = {},
   archive = { strip = 1 },
   test    = function(p)
-    p:run("test -f " .. p.install_root .. "/usr/lib/firmware/nvidia/595.71.05/gsp_tu10x.bin")
+    p:run("test -f " .. p.install_root .. "/usr/lib/firmware/nvidia/610.57.04/gsp_tu10x.bin")
   end,
 }
