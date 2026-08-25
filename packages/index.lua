@@ -92,6 +92,7 @@ return {
   { name = "hwdata", version = "0.389", summary = "Hardware identification databases (pci.ids, usb.ids)" },
   { name = "hyprcursor", version = "0.1.13", summary = "Library and toolkit for the Hyprland cursor format" },
   { name = "hyprgraphics", version = "0.5.1", summary = "Hyprland graphics libraries" },
+  { name = "hypridle", version = "0.1.8", summary = "Hyprland idle management daemon" },
   { name = "hyprland", version = "0.56.2", summary = "Dynamic tiling Wayland compositor" },
   { name = "hyprland-protocols", version = "0.7.0", summary = "Wayland protocol files for Hyprland" },
   { name = "hyprlang", version = "0.6.8", summary = "Hyprland config language parser library" },
