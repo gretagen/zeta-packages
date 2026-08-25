@@ -3,7 +3,7 @@ return {
   version = "1.61",
   summary = "Library defining common GnuPG error values",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/libgpg-error/libgpg-error-1.61.tar.gz",
-  sha256  = "6e82a50e34d561e5f7246d673460bbd6d9ca1ea2262e8789ab7bbaeabb4992ec",
+  sha256  = "f901f68f37365ba8af48c05844c404ecc8fece32214824757b01b6a719a29ddc",
   deps    = {},
   archive = { strip = 1 },
   test    = function(p)

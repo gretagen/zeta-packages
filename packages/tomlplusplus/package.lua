@@ -1,9 +1,9 @@
 return {
   name    = "tomlplusplus",
   version = "3.4.0",
-  summary = "TOML config file parser for C++17 (headers + shared library)",
+  summary = "Header-only TOML config file parser for C++17",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/tomlplusplus/tomlplusplus-3.4.0.tar.gz",
-  sha256  = "236ff9b01127f70dfb421f2850c0c05e923eaec8e56834a7bfa53a8001df1cda",
+  sha256  = "ba8f0e940a5d144212a626f7b82c12d01a44d79f8de6ac534d350309f842ad27",
   deps    = {},
   archive = { strip = 1 },
   test    = function(p)

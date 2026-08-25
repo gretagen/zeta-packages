@@ -7,6 +7,6 @@ return {
   deps    = {},
   archive = { strip = 1 },
   test    = function(p)
-    p:run("test -d " .. p.install_root .. "/usr/bin/cowsay")
+    p:run("test -x " .. p.install_root .. "/usr/local/bin/cowsay")
   end,
 }
