@@ -452,6 +452,7 @@ return {
   { name = "xxhash", version = "0.8.3", summary = "Extremely fast non-cryptographic hash algorithm" },
   { name = "xz-utils", version = "5.6.4", summary = "XZ/LZMA compression (xz, lzma, liblzma)" },
   { name = "zeta", version = "1.0.0", summary = "Zeta package manager for Zerene OS" },
+  { name = "zeta-toolchain", version = "1.0.0", summary = "Zeta build toolchain (zeta-makepkg, zeta-cli)" },
   { name = "zig", version = "0.16.0", summary = "Zig compiler and toolchain (LLVM 21 backend, all features)" },
   { name = "zip", version = "3.0", summary = "InfoZIP archiver" },
   { name = "zlib", version = "1.3.2", summary = "Compression library (provided by the base system; stub package)" },
