@@ -7,7 +7,7 @@ return {
   deps    = {},
   build   = function(p)
     p:run("cmake -B build -DCMAKE_INSTALL_PREFIX=/usr -DCMAKE_BUILD_TYPE=Release")
-    p:run("cmake --build build -j" .. (os.getenv("NPROC") or "$(nproc)"))
+    p:run("cmake --build build -j" .. "$(nproc)")
     p:run("DESTDIR=" .. p.install_root .. " cmake --install build")
   end,
   test    = function(p)

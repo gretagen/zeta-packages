@@ -3,7 +3,7 @@ return {
   version = "43.3",
   summary = "Window Navigator Construction Kit (GTK3)",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/libwnck3/libwnck3-43.3.tar.gz",
-  sha256  = "7ac16071426105b3f55b92c6d9c17346c2db4b188223a3d67aa3936a81938028",
+  sha256  = "c45e472763536aca7a15c9051cc8194fc1cce0aedac517b908a7d10baa7d6f49",
   deps    = { "gtk3" },
   archive = { strip = 1 },
   test    = function(p)

@@ -1,9 +1,9 @@
 return {
   name    = "hyprland-protocols",
   version = "0.7.0",
-  summary = "Wayland protocol files for Hyprland",
+  summary = "Hyprland protocol files (wayland-protocols layout)",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/hyprland-protocols/hyprland-protocols-0.7.0.tar.gz",
-  sha256  = "fbb489f413c022cc7df43e444387fcb7d8e0adeb9e3421597691f636fed844ec",
+  sha256  = "ff214076b2526ee70f55f6d0b718a08ecc2b3918f20acad6ac8065ad7e4d34fb",
   deps    = {},
   archive = { strip = 1 },
   test    = function(p)

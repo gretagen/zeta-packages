@@ -3,7 +3,7 @@ return {
   version = "0.9",
   summary = "Fully featured YAML 1.2 parser and emitter",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/libfyaml/libfyaml-0.9.tar.gz",
-  sha256  = "773dba06e20a2ae060716a232055a3feab5e083be6e710227bebb20cb28baff5",
+  sha256  = "4fb07b7845bd3429cd859444ba770eba7235f024896fda794f7931960035f77c",
   deps    = {},
   archive = { strip = 1 },
   test    = function(p)

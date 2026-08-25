@@ -3,7 +3,7 @@ return {
   version = "6.14.0",
   summary = "Extra CMake modules for KF6/LXQt builds",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/extra-cmake-modules/extra-cmake-modules-6.14.0.tar.gz",
-  sha256  = "8a85065ee9aaf539565a51564ddaa326fb50d78b7c9c8f6ef9bc5b239d07987a",
+  sha256  = "a50f35817b39770b29d46d1d8d2ce8a8d4b737017b1e28ea5cd6ead4652004ce",
   deps    = {},
   archive = { strip = 1 },
   test    = function(p)
