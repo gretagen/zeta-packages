@@ -46,6 +46,7 @@ return {
   { name = "double-conversion", version = "3.4.0", summary = "IEEE-754 binary/decimal conversion library" },
   { name = "driftwm", version = "0.17.3", summary = "Trackpad-first infinite canvas Wayland compositor (smithay)" },
   { name = "egl", version = "1.5", summary = "EGL interface library (stub pkgconfig for libglvnd EGL)" },
+  { name = "elogind", version = "257.16", summary = "Standalone logind implementation for non-systemd systems" },
   { name = "emacs", version = "30.2", summary = "Extensible, customizable, self-documenting text editor" },
   { name = "eom", version = "1.28.0", summary = "Eye of MATE image viewer" },
   { name = "equibop", version = "3.2.2", summary = "Discord client mod (Equicord, Electron app)" },
