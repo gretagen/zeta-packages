@@ -9,6 +9,7 @@ return {
   { name = "aquamarine", version = "0.12.0", summary = "Lightweight Wayland compositor library" },
   { name = "at-spi2-core", version = "2.56.1", summary = "Assistive Technology Service Provider Interface (includes ATK)" },
   { name = "atkmm", version = "2.36.4", summary = "C++ bindings for ATK accessibility toolkit" },
+  { name = "attr", version = "2.5.2", summary = "Extended attribute support library for ACL support" },
   { name = "avahi", version = "0.8", summary = "mDNS/DNS-SD (Bonjour) implementation" },
   { name = "awww", version = "0.12.1", summary = "Efficient animated wallpaper daemon for Wayland" },
   { name = "bat", version = "0.26.1", summary = "A cat clone with wings." },
