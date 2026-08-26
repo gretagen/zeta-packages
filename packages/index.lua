@@ -13,7 +13,7 @@ return {
   { name = "avahi", version = "0.8", summary = "mDNS/DNS-SD (Bonjour) implementation" },
   { name = "awww", version = "0.12.1", summary = "Efficient animated wallpaper daemon for Wayland" },
   { name = "base", version = "1.0", summary = "Zerene OS base system (metapackage)" },
-  { name = "bash", version = "5.3", summary = "GNU Bourne-Again SHell" },
+  { name = "bash", version = "5.3", summary = "GNU Bourne Again SHell" },
   { name = "bat", version = "0.26.1", summary = "A cat clone with wings." },
   { name = "bitstreamvera", version = "1.10", summary = "Bitstream Vera TrueType fonts" },
   { name = "brotli", version = "1.2.0", summary = "Brotli compression library" },
