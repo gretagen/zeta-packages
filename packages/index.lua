@@ -18,6 +18,7 @@ return {
   { name = "brotli", version = "1.2.0", summary = "Brotli compression library" },
   { name = "btop", version = "1.4.7", summary = "Resource monitor (bpytop ported to C++)" },
   { name = "bubblewrap", version = "0.11.2", summary = "Low-level unprivileged sandboxing tool (used by Flatpak)" },
+  { name = "busybox", version = "1.37.0", summary = "Swiss army knife of embedded Linux" },
   { name = "bzip2", version = "1.0.8", summary = "bzip2 compression library" },
   { name = "cairo", version = "1.18.4", summary = "2D graphics library with Xlib/XCB surfaces" },
   { name = "cairomm", version = "1.15.4", summary = "C++ bindings for the Cairo graphics library" },
