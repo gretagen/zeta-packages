@@ -28,6 +28,7 @@ return {
   { name = "compiler-rt", version = "22.1.8", summary = "Compiler runtime libraries for clang 22 (compiler-rt builtins)" },
   { name = "compiler-rt21", version = "21.1.8", summary = "Compiler runtime libraries for clang 21 (compiler-rt builtins)" },
   { name = "composefs", version = "1.0.8", summary = "Composable, immutable, content-addressed filesystem (and library)" },
+  { name = "coreutils", version = "9.11", summary = "Basic file, shell and text manipulation utilities" },
   { name = "cowsay", version = "3.8.4", summary = "Cow says things" },
   { name = "cpio", version = "2.15", summary = "GNU cpio: a program to manage archives of files" },
   { name = "ctwm", version = "4.1.0", summary = "Window manager based on TWM (with virtual workspaces)" },
