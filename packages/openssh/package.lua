@@ -3,7 +3,7 @@ return {
   version = "10.3p1",
   summary = "OpenSSH protocol implementation for remote login, command execution and file transfer",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/openssh/openssh-10.3p1.tar.gz",
-  sha256  = "e8f899dc74e1c7489db88a363ebef06f390fafd1daae0fd07b16f910c1e54c24",
+  sha256  = "56682a36bb92dcf4b4f016fd8ec8e74059b79a8de25c15d670d731e7d18e45f4",
   deps    = { "openssl", "pam", "libz" },
   archive = { strip = 1 },
   test    = function(p)
