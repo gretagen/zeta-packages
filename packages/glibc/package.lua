@@ -1,9 +1,9 @@
 return {
   name    = "glibc",
-  version = "2.43",
+  version = "2.44",
   summary = "GNU C Library",
-  url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/glibc/glibc-2.43.tar.gz",
-  sha256  = "6ca0cf51f08d831be15a4155c91a87ef87bb6d1f7c22839569d1d8df90f6ae70",
+  url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/glibc/glibc-2.44.tar.gz",
+  sha256  = "586b6e23c550e6f7dda26dc9a4dead3a91fdc9e9a823efded1fbfa01a7172710",
   deps    = {},
   archive = { strip = 1 },
   test    = function(p)
