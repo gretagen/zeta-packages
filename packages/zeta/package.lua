@@ -1,9 +1,9 @@
 return {
   name    = "zeta",
-  version = "1.0.4",
+  version = "1.0.5",
   summary = "Zeta package manager for Zerene OS",
-  url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/zeta/zeta-1.0.4.tar.gz",
-  sha256  = "2bca97aa6e8f9d3cfdc484b7399c7d101cf0fe00901e04ebd73964f700b886ec",
+  url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/zeta/zeta-1.0.5.tar.gz",
+  sha256  = "900c4bacdf4922820836904477cf298ae572cfcf848e271055bc773e2cc044bf",
   deps    = { "lua" },
   archive = { strip = 1 },
   test    = function(p)
