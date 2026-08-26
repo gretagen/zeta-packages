@@ -3,7 +3,7 @@ return {
   version = "5.5.1",
   summary = "Lua 5.5 shared library (liblua) for embedding",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/lua/lua-5.5.1.tar.gz",
-  sha256  = "7ce0caf8bbfdb3fa0f3adeceaaa705545aee5963e4dccf87b17ae161b5bf63a1",
+  sha256  = "6deeb1f95a3ea2bdf1ca06255af045541c2ff3bdb22c00eb0e6beee6a43ccccc",
   deps    = {},
   archive = { strip = 1 },
   test    = function(p)
