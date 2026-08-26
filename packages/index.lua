@@ -417,6 +417,7 @@ return {
   { name = "unimatrix", version = "master", summary = "Matrix-style digital rain for the terminal" },
   { name = "unzip", version = "6.0", summary = "InfoZIP extractor" },
   { name = "upower", version = "1.90.10", summary = "Power management daemon and tools" },
+  { name = "util-linux", version = "2.42", summary = "Essential Linux system utilities (mount, losetup, fdisk, blkid, hwclock, agetty, etc.)" },
   { name = "util-linux-libs", version = "2.42", summary = "Util-linux shared libraries (libblkid, libmount)" },
   { name = "util-macros", version = "1.20.2", summary = "X.Org Autoconf macros (build-time dependency)" },
   { name = "vim", version = "9.2.0920", summary = "Modal text editor" },
