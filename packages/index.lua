@@ -16,6 +16,7 @@ return {
   { name = "bat", version = "0.26.1", summary = "A cat clone with wings." },
   { name = "bitstreamvera", version = "1.10", summary = "Bitstream Vera TrueType fonts" },
   { name = "brotli", version = "1.2.0", summary = "Brotli compression library" },
+  { name = "btrfs-progs", version = "7.1", summary = "Btrfs filesystem utilities (mkfs.btrfs, btrfs, btrfsck, btrfstune)" },
   { name = "btop", version = "1.4.7", summary = "Resource monitor (bpytop ported to C++)" },
   { name = "bubblewrap", version = "0.11.2", summary = "Low-level unprivileged sandboxing tool (used by Flatpak)" },
   { name = "busybox", version = "1.37.0", summary = "Swiss army knife of embedded Linux" },
