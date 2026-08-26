@@ -322,7 +322,7 @@ return {
   { name = "mpfr", version = "4.2.1", summary = "GNU multiple-precision floating-point rounding library" },
   { name = "mpg123", version = "0.49.4", summary = "MPEG audio decoder library" },
   { name = "muparser", version = "2.3.5", summary = "Fast math expression parser library" },
-  { name = "ncurses", version = "6.6", summary = "System V Release 4.0 curses library (libncursesw runtime)" },
+  { name = "ncurses", version = "6.6", summary = "System V Release 4.0 curses library and utilities" },
   { name = "neovim", version = "0.12.4", summary = "Vim-fork focused on extensibility and usability" },
   { name = "nettle", version = "1.0", summary = "Cryptographic library" },
   { name = "nghttp2", version = "1.70.0", summary = "HTTP/2 framing layer C library" },
