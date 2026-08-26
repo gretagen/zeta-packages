@@ -342,6 +342,7 @@ return {
   { name = "nvidia-optix", version = "595.71.05", summary = "NVIDIA official driver OptiX runtime (libnvoptix, rtcore)" },
   { name = "nvidia-utils", version = "610.57.04", summary = "NVIDIA driver userspace (vendor GL/EGL/GLES/Vulkan libs, tools, Xorg modules)" },
   { name = "openbox", version = "3.6.1", summary = "Openbox X11 window manager (LXQt default WM)" },
+  { name = "openrc", version = "0.63.3", summary = "OpenRC init system and service manager (zerene-branded)" },
   { name = "opencode", version = "1.18.18", summary = "AI-powered CLI coding agent" },
   { name = "openssh", version = "10.3p1", summary = "OpenSSH protocol implementation for remote login, command execution and file transfer" },
   { name = "openssl", version = "3.6.3", summary = "OpenSSL 3 crypto and TLS libraries (libcrypto/libssl)" },
