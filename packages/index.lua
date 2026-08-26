@@ -384,6 +384,7 @@ return {
   { name = "sdbus-cpp", version = "2.3.1", summary = "C++ wrapper library for sd-bus (libsystemd D-Bus client)" },
   { name = "sdl2", version = "2.32.10", summary = "Simple DirectMedia Layer 2 (low-level multimedia library)" },
   { name = "seatd", version = "0.9.3", summary = "Seat management daemon and library" },
+  { name = "shadow", version = "4.20.2", summary = "Password and user management utilities (passwd, login, su, useradd, etc.)" },
   { name = "setxkbmap", version = "1.3.2", summary = "Set the keyboard using the X Keyboard Extension" },
   { name = "shared-mime-info", version = "2.5.1", summary = "Freedesktop.org shared MIME database and update-mime-database" },
   { name = "solid", version = "6.14.0", summary = "KF6 hardware detection (KF6Solid)" },
