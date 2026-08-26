@@ -254,6 +254,7 @@ return {
   { name = "libz", version = "1.3.2", summary = "Zlib compression library" },
   { name = "libzip", version = "1.11.4", summary = "C library for reading, creating, and modifying zip archives" },
   { name = "libzstd", version = "1.5.7", summary = "Zstandard - Fast real-time compression algorithm" },
+  { name = "limine", version = "12.6.1", summary = "Limine multiprotocol bootloader (UEFI, BIOS, PXE)" },
   { name = "linux-firmware", version = "0.20260825", summary = "Linux kernel firmware blobs (metapackage)" },
   { name = "linux-firmware-amdgpu", version = "0.20260825", summary = "amdgpu firmware blobs" },
   { name = "linux-firmware-atheros", version = "0.20260825", summary = "atheros firmware blobs" },
