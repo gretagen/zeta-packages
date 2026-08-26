@@ -243,6 +243,7 @@ return {
   { name = "libudev", version = "1", summary = "udev library (provided by the base system; stub package)" },
   { name = "libunistring", version = "5.2.1", summary = "Unicode string library" },
   { name = "libuuid", version = "2.42.1", summary = "UUID library (from util-linux)" },
+  { name = "libusb", version = "1.0.30", summary = "Cross-platform USB access library (libusb-1.0)" },
   { name = "libva", version = "2.2300.0", summary = "Video Acceleration API" },
   { name = "libva-intel-driver", version = "2.4.1", summary = "Intel VA-API driver for i965 (pre-Broadwell legacy driver)" },
   { name = "libvorbis", version = "3.3.8", summary = "Vorbis audio codec" },
