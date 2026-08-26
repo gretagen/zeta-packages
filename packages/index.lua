@@ -155,6 +155,7 @@ return {
   { name = "libassuan", version = "3.0.2", summary = "IPC library used by GnuPG components" },
   { name = "libb2", version = "0.98.1", summary = "BLAKE2 hash function library" },
   { name = "libcanberra", version = "0.30", summary = "XDG Sound Theme and Name Specifications implementation" },
+  { name = "libcap", version = "2.78", summary = "POSIX 1003.1e capabilities" },
   { name = "libcups", version = "2.4.19", summary = "CUPS printing library (libcups.so.2)" },
   { name = "libcurl", version = "8.21.0", summary = "URL transfer library" },
   { name = "libdaemon", version = "0.14", summary = "Lightweight C library for writing daemons" },
