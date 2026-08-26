@@ -72,6 +72,7 @@ return {
   { name = "fvwm3", version = "1.1.5", summary = "Virtual window manager for the X Window System" },
   { name = "garcon", version = "4.20.0", summary = "Freedesktop.org menu library for Xfce" },
   { name = "gcc-libs", version = "15.2", summary = "GCC support libraries (libgomp, libgcc_s, libstdc++)" },
+  { name = "gawk", version = "5.4.1", summary = "GNU awk - pattern scanning and processing language" },
   { name = "gdk-pixbuf", version = "2.42.12", summary = "Image loading and scaling library" },
   { name = "git", version = "2.50.0", summary = "Distributed version control system" },
   { name = "glib", version = "2.88.1", summary = "GLib utility library, GObject, and GIO" },
