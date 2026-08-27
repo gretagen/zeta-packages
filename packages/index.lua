@@ -184,6 +184,7 @@ return {
   { name = "libbsd", version = "0.12.2", summary = "BSD library of useful functions (arc4random, strlcpy, etc.)" },
   { name = "libcanberra", version = "0.30", summary = "XDG Sound Theme and Name Specifications implementation" },
   { name = "libcap", version = "2.78", summary = "POSIX 1003.1e capabilities" },
+  { name = "libcap-ng", version = "0.8.5", summary = "Library for Linux capabilities" },
   { name = "libcups", version = "2.4.19", summary = "CUPS printing library (libcups.so.2)" },
   { name = "libcurl", version = "8.21.0", summary = "URL transfer library" },
   { name = "libdaemon", version = "0.14", summary = "Lightweight C library for writing daemons" },

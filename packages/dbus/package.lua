@@ -3,7 +3,7 @@ return {
   version = "1.16.2",
   summary = "D-Bus message bus system",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/dbus/dbus-1.16.2.tar.xz",
-  sha256  = "503662d37a289de9ece7fb9cd6d08628ae6b96881f6df747300c9b585017f002",
+  sha256  = "aef47e85d86c1d9d5417f2049387106a0850f2c59354a22a2abe2f3d134af330",
   deps    = { "audit" },
   archive = { strip = 1 },
   test    = function(p)
