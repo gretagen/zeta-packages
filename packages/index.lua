@@ -100,6 +100,7 @@ return {
   { name = "gpgme", version = "2.1.0", summary = "Library providing access to GnuPG crypto functions" },
   { name = "graphene", version = "1.10.8", summary = "Thin layer of math types for graphic libraries (required by GTK4)" },
   { name = "graphite2", version = "1.3.14", summary = "Graphite2 font rendering engine" },
+  { name = "grep", version = "3.12", summary = "GNU grep, egrep and fgrep (with -z support for initramfs tools)" },
   { name = "gsettings-desktop-schemas", version = "50.1", summary = "GSettings schemas for the GNOME/MATE desktop" },
   { name = "gtk-layer-shell", version = "0.10.1", summary = "GTK Wayland layer-shell bindings" },
   { name = "gtk3", version = "3.24.50", summary = "GTK+ 3 toolkit" },
