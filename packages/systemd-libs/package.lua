@@ -4,7 +4,7 @@ return {
   summary = "systemd libraries (libsystemd, libudev)",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/systemd-libs/systemd-libs-257.tar.gz",
   sha256  = "66252eac75bb74fd77aefe0a86c1c6e742f2aac63ee9d1689cc6104e0db54d9d",
-  deps    = {},
+  deps    = { "glibc" },
   archive = { strip = 1 },
   test    = function(p)
     p:run("test -f " .. p.install_root .. "/usr/lib/libsystemd.so.0")

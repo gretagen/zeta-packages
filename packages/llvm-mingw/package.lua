@@ -5,7 +5,7 @@ return {
   url     = "https://github.com/mstorsjo/llvm-mingw/releases/download/20260616/llvm-mingw-20260616-ucrt-ubuntu-22.04-x86_64.tar.xz",
   sha256  = "534b92e067b22a6b4441f48ae9240a3341b17825d04d577eab0cf85c44b4deda",
   arch    = "x86_64",
-  deps    = { "libz", "zstd" },
+  deps    = { "glibc", "libz", "zstd" },
   install = function(p)
     p:install(".", "/opt/llvm-mingw")
     p:run("mkdir -p " .. p.install_root .. "/usr/bin")

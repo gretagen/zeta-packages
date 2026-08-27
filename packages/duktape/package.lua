@@ -4,7 +4,7 @@ return {
   summary = "Embeddable JavaScript engine (used by polkit)",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/duktape/duktape-2.7.0.tar.gz",
   sha256  = "a2b4347cdc6e6598b8656379cd4f21c89e365aa53b3d1e6ddc5780db6f30799a",
-  deps    = {  },
+  deps    = { "glibc" },
   archive = { strip = 1 },
   test    = function(p)
     p:run("test -f " .. p.install_root .. "/usr/lib/libduktape.so.207")

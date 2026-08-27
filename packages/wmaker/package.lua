@@ -4,7 +4,7 @@ return {
   summary = "Window Maker: GNUstep-compliant NeXTstep window manager clone",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/wmaker/wmaker-0.96.0.tar.gz",
   sha256  = "5b82697ec6adf946bd9c5c2f7f23f4fd116632c48b427e65e83b543fca1f5625",
-  deps    = { "libX11", "libXext", "libXinerama", "libXres", "libXmu", "libXpm", "libXft", "libpng", "libjpeg-turbo", "fontconfig", "pango" },
+  deps    = { "glibc", "libX11", "libXext", "libXinerama", "libXres", "libXmu", "libXpm", "libXft", "libpng", "libjpeg-turbo", "fontconfig", "pango" },
   archive = { strip = 1 },
   test    = function(p)
     p:run("test -f " .. p.install_root .. "/usr/bin/wmaker")
