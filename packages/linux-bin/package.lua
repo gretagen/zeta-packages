@@ -3,7 +3,7 @@ return {
   version = "7.1.10",
   summary = "Zerene OS kernel 7.1.10-gen (modules included)",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/linux-bin/linux-bin-7.1.10.tar.gz",
-  sha256  = "4cc07eb6bf39b0af90eae1ed120b4c0a5d8913d3cd5e094a9c92ae169ae27c2c",
+  sha256  = "df8718f052fcaa2ff4ee13e224d0e3f5565986eac8bc580c3751ce9bdb34445d",
   deps    = {  },
   archive = { strip = 1 },
   test    = function(p)
