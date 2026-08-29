@@ -1,7 +1,7 @@
 return {
   { name = "a52dec", version = "0.0.0", summary = "A52 (AC-3) audio decoder lib" },
   { name = "abseil-cpp", version = "20260107", summary = "Google's Abseil C++ library (collection of C++ library code)" },
-  { name = "acl", version = "1.1.2302", summary = "Access control list library" },
+  { name = "acl", version = "2.4.0", summary = "Access control list library and utilities" },
   { name = "adwaita-icon-theme", version = "50.0", summary = "Adwaita icon theme" },
   { name = "adwaita-icon-theme-legacy", version = "46.2", summary = "Full-color legacy icons for the Adwaita icon theme" },
   { name = "alacritty", version = "0.15.1", summary = "GPU-accelerated terminal emulator" },
@@ -457,7 +457,7 @@ return {
   { name = "unzip", version = "6.0", summary = "InfoZIP extractor" },
   { name = "upower", version = "1.90.10", summary = "Power management daemon and tools" },
   { name = "usbutils", version = "019", summary = "USB utilities (lsusb, usb-devices, usbhid-dump)" },
-  { name = "util-linux", version = "2.42", summary = "Essential Linux system utilities (mount, losetup, fdisk, blkid, hwclock, agetty, etc.)" },
+  { name = "util-linux", version = "2.42", summary = "Essential Linux system utilities (mount, losetup, fdisk, blkid, agetty, lsblk, etc.)" },
   { name = "util-linux-libs", version = "2.42", summary = "Util-linux shared libraries (libblkid, libmount)" },
   { name = "util-macros", version = "1.20.2", summary = "X.Org Autoconf macros (build-time dependency)" },
   { name = "vim", version = "9.2.0920", summary = "Modal text editor" },
