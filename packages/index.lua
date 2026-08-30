@@ -306,6 +306,7 @@ return {
   { name = "linux-firmware-radeon", version = "0.20260825", summary = "radeon firmware blobs" },
   { name = "linux-firmware-realtek", version = "0.20260825", summary = "realtek firmware blobs" },
   { name = "linux-headers", version = "7.1.10", summary = "Prepared 7.1.10-gen kernel tree for out-of-tree module builds" },
+  { name = "linux-libc-headers", version = "7.1.10", summary = "Kernel UAPI headers for userspace builds (linux, asm, asm-generic...)" },
   { name = "lld", version = "22.1.8", summary = "LLVM 22 linker (lld libraries and tooling)" },
   { name = "lld21", version = "21.1.8", summary = "LLVM 21 linker (lld libraries and tooling)" },
   { name = "llhttp", version = "9.3.1", summary = "Portable, incremental HTTP/1.1 parser (used by libgit2)" },
