@@ -6,7 +6,7 @@ return {
   sha256 = "e42923d0e8264f63ac52f40f502f119840c433170867e84309f18e9cc3706c41",
   deps = {
     "glibc",
-    "abseil-cpp", "aquamarine", "cairo", "gcc-libs", "glslang",
+    "abseil-cpp", "aquamarine", "cairo", "gcc", "glslang",
     "graphite2", "harfbuzz", "hyprcursor", "hyprgraphics", "hyprlang",
     "hyprland-protocols", "hyprutils", "hyprwayland-scanner", "hyprwire",
     "libXcursor", "libdrm", "libei", "libinput", "libjpeg-turbo",

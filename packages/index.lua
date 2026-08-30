@@ -88,7 +88,6 @@ return {
   { name = "garcon", version = "4.20.0", summary = "Freedesktop.org menu library for Xfce" },
   { name = "gawk", version = "5.4.1", summary = "GNU awk - pattern scanning and processing language" },
   { name = "gcc", version = "16.2.0", summary = "GNU Compiler Collection (C and C++ front ends, libstdc++)" },
-  { name = "gcc-libs", version = "15.2", summary = "GCC support libraries (libgomp, libgcc_s, libstdc++)" },
   { name = "gdk-pixbuf", version = "2.42.12", summary = "Image loading and scaling library" },
   { name = "genkernel", version = "1.0", summary = "Zerene OS kernel generation script" },
   { name = "genzee", version = "1.0", summary = "btrfs generation manager for Zerene OS (Limine boot entries)" },
