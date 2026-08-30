@@ -3,7 +3,7 @@ return {
   version = "0.1.0",
   summary = "A wc replacement that beats GNU wc - SIMD kernels, mmap, threads",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/fastwc/fastwc-0.1.0.tar.gz",
-  sha256  = "f66d209be94600f88b6d5044817ddebb43e5a37d2aa7b8a435d47b33802a0e0e",
+  sha256  = "4137be8c452c49743d2c23e14d85b4eca49003c7060969b0f19ee306be6bc428",
   deps    = { "glibc" },
   archive = { strip = 1 },
   test    = function(p)
