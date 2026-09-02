@@ -134,6 +134,7 @@ return {
   { name = "i3", version = "4.25.1", summary = "Improved tiling window manager for X11" },
   { name = "icu", version = "78.3", summary = "International Components for Unicode (libicui18n/libicuuc/libicudata), required by Qt 5" },
   { name = "imlib2", version = "1.12.6", summary = "Image loading and rendering library" },
+  { name = "impala", version = "0.9.0", summary = "TUI for managing wifi on Linux (iwd client)" },
   { name = "iniparser", version = "4.2.6", summary = "Standalone ini-file parsing library" },
   { name = "intel-full", version = "1.0", summary = "Complete Intel GPU graphics stack (VA-API iHD/i965, X11 DDX driver, Mesa)" },
   { name = "intel-gmmlib", version = "22.10.1", summary = "Intel Graphics Memory Management Library" },
