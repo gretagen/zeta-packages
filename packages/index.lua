@@ -378,6 +378,7 @@ return {
   { name = "networkmanager", version = "1.51.4", summary = "Network management daemon (wifi iwd+wpa_supplicant, dnsmasq, dhcpcd)" },
   { name = "newt", version = "0.52.25", summary = "Library for text mode user interfaces (libnewt)" },
   { name = "nghttp2", version = "1.70.0", summary = "HTTP/2 framing layer C library" },
+  { name = "nix", version = "2.35.2", summary = "Nix package manager (official prebuilt binary, /nix store layout)" },
   { name = "npth", version = "1.8", summary = "New Portable Threads library" },
   { name = "nscde", version = "2.3", summary = "Not so Common Desktop Environment: retro CDE-like desktop on FVWM" },
   { name = "nss", version = "3.124", summary = "Network Security Services (libnss3/libnspr4 runtime)" },
