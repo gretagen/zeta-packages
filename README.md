@@ -1,1 +1,1 @@
-# packages for the package manager zeta for zerene OS
+# packages for the package manager zeta for HeliadeOS

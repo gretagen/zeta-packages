@@ -3,7 +3,7 @@ return {
   version = "2.14",
   summary = "GNU GRand Unified Bootloader (BIOS + EFI)",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/grub/grub-2.14.tar.gz",
-  sha256  = "9db1c66d8cf00d6b02e3fce03c188b1691e14aa359367d87c4de7625a87b613b",
+  sha256  = "ed0085920eb83d2cdc0ad183fddd5fa41f3237e106c29bf140f167321f4133b9",
   deps    = { "glibc", "device-mapper", "xz-utils", "systemd-libs", "gcc", "freetype", "libfuse3", "libpng", "libz", "bzip2", "brotli" },
   archive = { strip = 1 },
   test    = function(p)

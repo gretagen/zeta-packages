@@ -1,9 +1,9 @@
 return {
   name    = "subspace-scripts",
   version = "1.1.0",
-  summary = "Zerene OS subspace management scripts",
+  summary = "Heliade OS subspace management scripts",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/subspace-scripts/subspace-scripts-1.1.0.tar.gz",
-  sha256  = "a0f6cf98b3fde4a94cd6087783a7108552442c06cf7cb0b575a9c2bab0953981",
+  sha256  = "bf78ae97f32a7d7a6a6e2ff23132739237058891a733a681001575e3dd4abc9c",
   deps    = { "bash", "bubblewrap" },
   archive = { strip = 1 },
   test    = function(p)
