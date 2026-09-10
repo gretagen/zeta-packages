@@ -1,9 +1,9 @@
 return {
   name    = "zstrappa",
-  version = "2.0",
+  version = "2.1",
   summary = "Install Haliade OS from the live ISO to a target device",
-  url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/zstrappa/zstrappa-2.0.tar.gz",
-  sha256  = "fef97dad9c45e11feb31f035f911f94f5e68e7a64b29f2cf32678319130c3057",
+  url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/zstrappa/zstrappa-2.1.tar.gz",
+  sha256  = "7bbbdf7bd5bd52229bd3ce836c65fab0bcaff21d7745454aaac8ec656845471c",
   deps    = { "bash", "btrfs-progs", "util-linux", "dosfstools", "limine", "rsync" },
   archive = { strip = 1 },
   test    = function(p)
