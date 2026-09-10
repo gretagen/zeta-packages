@@ -69,7 +69,7 @@ return {
   { name = "expat", version = "2.8.1", summary = "XML parsing C library" },
   { name = "extra-cmake-modules", version = "6.14.0", summary = "Extra CMake modules for KF6/LXQt builds" },
   { name = "faad2", version = "2.11.2", summary = "AAC decoder library" },
-  { name = "fastfetch", version = "2.66.0", summary = "Fast, feature-rich system information fetcher (neofetch successor)" },
+  { name = "fastfetch", version = "2.68.1", summary = "Fast, feature-rich system information fetcher (neofetch successor)" },
   { name = "fastwc", version = "0.1.0", summary = "A wc replacement that beats GNU wc - SIMD kernels, mmap, threads" },
   { name = "fd", version = "10.2.0", summary = "Simple find alternative" },
   { name = "femboysay", version = "0.1.0", summary = "an intuitive tool, for them" },
