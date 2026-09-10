@@ -544,5 +544,5 @@ return {
   { name = "zip", version = "3.0", summary = "InfoZIP archiver" },
   { name = "zsh", version = "5.9.2", summary = "Powerful shell with scripting and tab completion" },
   { name = "zstd", version = "1.5.7", summary = "Zstandard compression library" },
-  { name = "zstrappa", version = "1.0", summary = "Install Haliade OS from the live ISO to a target device" },
+  { name = "zstrappa", version = "1.1", summary = "Install Haliade OS from the live ISO to a target device" },
 }
