@@ -538,11 +538,11 @@ return {
   { name = "xxhash", version = "0.8.3", summary = "Extremely fast non-cryptographic hash algorithm" },
   { name = "xz-utils", version = "5.6.4", summary = "XZ/LZMA compression (xz, lzma, liblzma)" },
   { name = "yajl", version = "2.1.0", summary = "Yet Another JSON Library" },
-  { name = "zeta", version = "1.0.7", summary = "Zeta package manager for Haliade OS" },
+  { name = "zeta", version = "1.0.8", summary = "Zeta package manager for Haliade OS" },
   { name = "zeta-toolchain", version = "1.0.0", summary = "Zeta build toolchain (zeta-makepkg, zeta-cli)" },
   { name = "zig", version = "0.16.0", summary = "Zig compiler and toolchain (LLVM 21 backend, all features)" },
   { name = "zip", version = "3.0", summary = "InfoZIP archiver" },
   { name = "zsh", version = "5.9.2", summary = "Powerful shell with scripting and tab completion" },
   { name = "zstd", version = "1.5.7", summary = "Zstandard compression library" },
-  { name = "zstrappa", version = "1.1", summary = "Install Haliade OS from the live ISO to a target device" },
+  { name = "zstrappa", version = "2.2", summary = "Install Haliade OS from the live ISO to a target device" },
 }
