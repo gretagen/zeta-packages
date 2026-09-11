@@ -3,7 +3,7 @@ return {
   version = "0.63.3",
   summary = "OpenRC init system and service manager for Haliade OS",
   url     = "https://raw.githubusercontent.com/gretagen/zeta-packages/refs/heads/main/packages/openrc/openrc-0.63.3.tar.gz",
-  sha256  = "dd2364739ddd12f046ce022cab9812fa0b2f36863ccf2775e9f104caacc14f54",
+  sha256  = "00c73a2a1b1fd37d03c8fe4f1aedfb10bafbe5631c36ee84390a46d7f367ae51",
   deps    = { "glibc", "pam", "libcap", "libcap-ng", "audit" },
   archive = { strip = 1 },
   test    = function(p)
