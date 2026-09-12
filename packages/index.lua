@@ -189,6 +189,7 @@ return {
   { name = "libappstream", version = "1.1.5", summary = "AppStream cross-distro software metadata library" },
   { name = "libarchive", version = "3.8.9", summary = "Library for reading/writing streaming archives" },
   { name = "libassuan", version = "3.0.2", summary = "IPC library used by GnuPG components" },
+  { name = "libatomic", version = "16.2.1", summary = "GCC atomic operations support library (libatomic.so.1)" },
   { name = "libb2", version = "0.98.1", summary = "BLAKE2 hash function library" },
   { name = "libbsd", version = "0.12.2", summary = "BSD library of useful functions (arc4random, strlcpy, etc.)" },
   { name = "libburn", version = "1.5.8", summary = "Library for reading, mastering and writing optical discs" },
