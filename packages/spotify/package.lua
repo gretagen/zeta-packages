@@ -1,5 +1,5 @@
 return {
-  name    = "spotify-client",
+  name    = "spotify",
   version = "1.2.96",
   summary = "Spotify streaming music client",
   url     = "https://github.com/gretagen/zeta-artifacts/releases/download/spotify-1.2.96/spotify.deb",
